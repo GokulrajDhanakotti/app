@@ -1,3 +1,3 @@
 # app
-login.html
-intex.html
+login
+intex
